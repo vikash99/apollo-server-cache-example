@@ -1,0 +1,13 @@
+{
+  "name": "apollo-server-cache-example",
+  "version": "1.0.0",
+  "description": "a simple example to prove the caching functionality of apollo server",
+  "main": "server.js",
+  "repository": "https://github.com/vikash99/apollo-server-cache-example.git",
+  "author": "vikash99",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-server": "^2.1.0"
+  }
+}
